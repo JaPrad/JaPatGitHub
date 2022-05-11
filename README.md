@@ -5,9 +5,9 @@ I'm a 15-year-old in high school. Damn passionate about building things that sol
 I'm currently learning JavaScript with a focus on creative coding and physics simulations in [p5.js](https://p5js.org). I also know some python. I plan to further extend my skills in  web development & data science/ML.
 
 I'm an open-source enthusiast and currently contribute to [Exercism](https://exercism.org). 
-Here at [SimulatingEdu](https://github.com/JaPatGitHub/SimulatingEdu), I am using p5.js to create interactive educational animations. Obviously open-sourced!
+Here at [GamifyingEdu](https://github.com/JaPatGitHub/GamifyingEdu), I am using p5.js to create interactive educational games & animations. Obviously open-sourced!
 
-I'm new to software development and would love to have connections with anyone. So, feel free to [email](mailto:japrad26@gmail.com) me or [DM](https://twitter.com/jyotir1221) me on Twitter! Would be glad to talk to you!!
+I'm new to software development and would love to have connections with anyone. So, feel free to [email](mailto:japrad26@gmail.com) me. Would be glad to talk to you!!
 
 
 <!--
