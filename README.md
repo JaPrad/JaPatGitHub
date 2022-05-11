@@ -7,7 +7,7 @@ I'm currently learning JavaScript with a focus on creative coding and physics si
 I'm an open-source enthusiast and currently contribute to [Exercism](https://exercism.org). 
 Here at [SimulatingEdu](https://github.com/JaPatGitHub/SimulatingEdu), I am using p5.js to create interactive educational animations. Obviously open-sourced!
 
-I'm new to software development and would love to have connections with anyone. So, feel free to [email](mailto:japsim6dev@gmail.com) me or [DM](https://twitter.com/jyotir1221) me on Twitter! Would be glad to talk to you!!
+I'm new to software development and would love to have connections with anyone. So, feel free to [email](mailto:japrad26@gmail.com) me or [DM](https://twitter.com/jyotir1221) me on Twitter! Would be glad to talk to you!!
 
 
 <!--
