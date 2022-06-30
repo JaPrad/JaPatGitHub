@@ -4,7 +4,7 @@ I'm a 16-year-old in high school. I'm damn passionate about building stuff that 
 
 I'm currently learning JavaScript with a focus on creative coding and physics simulations in [p5.js](https://p5js.org). I also know some python. I plan to further extend my skills in  web development & ML. I'm an open-source enthusiast and currently contribute to [Exercism](https://exercism.org). 
 
-PS: Feel free to [email](mailto:japrad26@gmail.com) me. I love to talk!!
+PS: Feel free to email me at japrad26@gmail.com. Would love to talk!!
 
 
 <!--
