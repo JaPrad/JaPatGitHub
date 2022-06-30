@@ -1,13 +1,10 @@
 ### Hey there 👋 Smile please 😁
 
-I'm a 15-year-old in high school. Damn passionate about building things that solve people's problems. Hence currently trying to solve my problem - using technology to transform education.  
+I'm a 16-year-old in high school. I'm damn passionate about building stuff that solve people's problems. Hence, with my project [GamifyingEdu](https://github.com/JaPatGitHub/GamifyingEdu), I'm currently working to solve a problem I myself face - boring methods of teaching concepts at school which make them look pointless.
 
-I'm currently learning JavaScript with a focus on creative coding and physics simulations in [p5.js](https://p5js.org). I also know some python. I plan to further extend my skills in  web development & data science/ML.
+I'm currently learning JavaScript with a focus on creative coding and physics simulations in [p5.js](https://p5js.org). I also know some python. I plan to further extend my skills in  web development & ML. I'm an open-source enthusiast and currently contribute to [Exercism](https://exercism.org). 
 
-I'm an open-source enthusiast and currently contribute to [Exercism](https://exercism.org). 
-Here at [GamifyingEdu](https://github.com/JaPatGitHub/GamifyingEdu), I am using p5.js to create interactive educational games & animations. Obviously open-sourced!
-
-I'm new to software development and would love to have connections with anyone. So, feel free to [email](mailto:japrad26@gmail.com) me. Would be glad to talk to you!!
+PS: Feel free to [email](mailto:japrad26@gmail.com) me. I love to talk!!
 
 
 <!--
