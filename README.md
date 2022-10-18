@@ -1,8 +1,8 @@
 ### Hey there 👋 Smile please 😁
 
-I'm a 16-year-old in high school. I'm damn passionate about building stuff that solve people's problems. Hence, with my project [GamifyingEdu](https://github.com/JaPatGitHub/GamifyingEdu), I'm currently working to solve a problem I myself face - boring methods of teaching concepts at school which make them look pointless.
+I'm a 16-year-old in high school. I'm damn passionate about building stuff that solve people's problems. Hence, with my project [GamifyingEdu](https://github.com/JaPatGitHub/GamifyingEdu), I'm currently working to solve a problem I myself face - boring teaching methods at school which makes learning feel pointless to students.
 
-I'm currently learning JavaScript with a focus on creative coding and physics simulations in [p5.js](https://p5js.org). I also know some python. I plan to further extend my skills in  web development & ML. I'm an open-source enthusiast and currently contribute to [Exercism](https://exercism.org). 
+I'm currently learning JavaScript with a focus on creative coding and physics simulations in [p5.js](https://p5js.org). I also know some python. I plan to further extend my skills in  Web Development & Machine Learning. I'm an open-source enthusiast and currently contribute to [Exercism](https://exercism.org). 
 
 PS: Feel free to email me at japrad26@gmail.com. Would love to talk!!
 
